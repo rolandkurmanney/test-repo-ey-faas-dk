@@ -7,7 +7,7 @@ def hello_world():
 def new():
     pass
 
-def main():
+def main_fn():
     hello_world()
     
 if __name__ == '__main__':
